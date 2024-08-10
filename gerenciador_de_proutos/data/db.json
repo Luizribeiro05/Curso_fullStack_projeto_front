@@ -104,7 +104,16 @@
   "clientes": [
     {
       "id": 1,
-      "nome": "Luiz Gonzaga"
+      "nome": "Luiz",
+      "cpf": "123123",
+      "email": "luizribeiro.tech@gmail.com",
+      "cep": "58079000",
+      "rua": "Rua Josué Gomes de Almeida",
+      "numero": "326",
+      "bairro": "José Américo",
+      "cidade": "João Pessoa",
+      "estado": "Paraíba",
+      "pais": "Brasil"
     }
   ]
 }
