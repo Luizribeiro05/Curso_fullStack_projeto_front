@@ -1,0 +1,16 @@
+{
+    "fornecedores": [
+      {
+        "id": 1,
+        "nome": "Intelbras LTDA",
+        "cnpj": "57.242.828/0001-73",
+        "email": "sac@intelbras.com.br"
+    },
+      {
+        "id": 2,
+        "nome": "PPA LTDA",
+        "cnpj": "47.053.439/0001-46",
+        "email": "sac@ppa.com.br"
+      }
+    ]
+  }
